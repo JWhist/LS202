@@ -1,0 +1,27 @@
+body {
+  margin-left: 25px;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.morning-text {
+  font-weight: bold;
+}
+
+.afternoon-title {
+  color: blue
+}
+
+.afternoon-text {
+  font-style: italic;
+}
+
+.evening-title {
+  color: purple
+}

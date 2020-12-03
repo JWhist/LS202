@@ -1,0 +1,27 @@
+img {
+  display: block;
+  max-width: 800px;
+  min-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+div {
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.first-div {
+  background-color: #fcc;
+  padding: 20px;
+  margin-right: 20px;
+}
+
+.second-div {
+  background-color: #ccf;
+  border-width: 5px;
+  border: solid;
+  border-color: black;
+}
